@@ -25,7 +25,7 @@ while True:
     num += 1
 
 df = pd.DataFrame(bike_dict)
-st.write("# 따릉이 시각화 결과")
+st.write("# 따릉이 실시간 데이터 확인")
 st.write(df)
 
 # pydeck 모듈로 시각화
