@@ -1,4 +1,6 @@
-pandas
-requests
-pydeck
+konlpy
+tensorflow
+bs4
 streamlit
+jpype1==1.2.0
+tweepy==3.7.0
